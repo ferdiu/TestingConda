@@ -1,0 +1,7 @@
+name = "TestingConda"
+uuid = "a2e42de2-b290-448a-bee8-29a4bb620ea3"
+authors = ["ferdiu <ferdiu.manzella@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
